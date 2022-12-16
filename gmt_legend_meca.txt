@@ -1,0 +1,7 @@
+# legend GMT
+# containing meca
+
+
+S 0.1i c 0.06i - 0.25p 0.3i M 3
+S 0.1i c 0.08i - 0.25p 0.3i M 4
+S 0.1i c 0.10i - 0.25p 0.3i M 5
